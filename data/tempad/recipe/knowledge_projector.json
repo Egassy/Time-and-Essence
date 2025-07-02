@@ -1,0 +1,18 @@
+{
+  "type": "datanessence:shaped_fabrication_recipe",
+  "essenceCost": {
+    "datanessence:essence": 0
+  },
+  "entry": "tne:tne/knowledge_projector",
+  "pattern": [
+    "P",
+    "D",
+    "C"
+  ],
+  "key": {
+    "P": { "item": "minecraft:glass_pane" },
+	"D": { "item": "datanessence:data_drive" },
+	"C": { "tag": "c:ingots/copper" }
+  },
+  "result": { "id": "tempad:knowledge_projector", "count": 1 }
+}

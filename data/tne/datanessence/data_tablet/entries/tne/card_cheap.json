@@ -1,0 +1,47 @@
+{
+  "icon": {
+    "id": "tempad:location_card"
+  },
+  "tab": "tne:tne",
+  "x": 1,
+  "y": 3,
+  "pages": [
+    {
+      "type": "datanessence:item",
+      "item": {
+        "id": "tempad:location_card"
+      },
+      "text": {
+        "translate": "tne.data_tablet.pages.location_card1.page.text"
+      }
+    },
+    {
+      "type": "datanessence:crafting",
+	  "text": {
+        "translate": "tne.data_tablet.pages.location_card1.page2.text"
+      },
+      "recipes": [
+        "tempad:card_cheap"
+      ]
+    },
+	{
+      "type": "datanessence:crafting",
+	  "text": {
+        "translate": "tne.data_tablet.pages.location_card1.page3.text"
+      },
+      "recipes": [
+        "tempad:card_wallet"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "tne.data_tablet.pages.location_card1.name"
+  },
+  "flavor": {
+    "translate": "tne.data_tablet.pages.location_card1.flavor"
+  },
+  "parents": [
+    "tne:tne/knowledge_projector"
+	
+  ]
+}

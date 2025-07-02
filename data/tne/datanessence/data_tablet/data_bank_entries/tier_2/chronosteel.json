@@ -1,0 +1,47 @@
+{
+  "icon": {
+    "id": "tempad:time_steel"
+  },
+  "tier": 2,
+  "minigames": [
+    {
+      "type": "datanessence:wire",
+      "tiles": [
+        {
+          "x": 1,
+          "y": 7,
+          "type": 1,
+          "essence": 0
+        },
+        {
+          "x": 11,
+          "y": 7,
+          "type": 2,
+          "essence": 1
+        },
+        {
+          "x": 13,
+          "y": 7,
+          "type": 2,
+          "essence": 0
+        },
+        {
+          "x": 3,
+          "y": 7,
+          "type": 1,
+          "essence": 1
+        },
+        {
+          "x": 7,
+          "y": 10,
+          "type": 3,
+          "essence": 0
+        }
+      ]
+    }
+  ],
+  "name": {
+    "translate": "tne.data_tablet.pages.chronosteel.name"
+  },
+  "entry": "tne:tne/chronosteel"
+}

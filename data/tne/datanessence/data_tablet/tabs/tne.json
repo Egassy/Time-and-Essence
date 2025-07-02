@@ -1,0 +1,9 @@
+{
+  "icon": {
+    "id": "tempad:tempad"
+  },
+  "name": {
+    "translate": "tne.data_tablet.tabs.tempad.name"
+  },
+  "priority": -1
+}

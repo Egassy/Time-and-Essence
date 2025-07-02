@@ -1,0 +1,34 @@
+{
+  "icon": {
+    "id": "tempad:screening_device"
+  },
+  "tab": "tne:tne",
+  "x": 4,
+  "y": -7,
+  "pages": [
+    {
+      "type": "datanessence:item",
+      "item": {
+        "id": "tempad:screening_device"
+      },
+      "text": {
+        "translate": "tne.data_tablet.pages.screening_device.page.text"
+      }
+    },
+    {
+      "type": "datanessence:crafting",
+      "recipes": [
+        "tempad:screening_device"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "tne.data_tablet.pages.screening_device.name"
+  },
+  "flavor": {
+    "translate": "tne.data_tablet.pages.screening_device.flavor"
+  },
+  "parents": [
+    "tne:tne/location_broadcaster"
+  ]
+}

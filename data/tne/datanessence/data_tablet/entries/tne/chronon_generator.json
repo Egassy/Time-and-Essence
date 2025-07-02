@@ -1,0 +1,34 @@
+{
+  "icon": {
+    "id": "tempad:chronon_generator"
+  },
+  "tab": "tne:tne",
+  "x": 0,
+  "y": 3,
+  "pages": [
+    {
+      "type": "datanessence:item",
+      "item": {
+        "id": "tempad:chronon_generator"
+      },
+      "text": {
+        "translate": "tne.data_tablet.pages.chronon_generator.page.text"
+      }
+    },
+    {
+      "type": "datanessence:crafting",
+      "recipes": [
+        "tempad:chronon_generator"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "tne.data_tablet.pages.chronon_generator.name"
+  },
+  "flavor": {
+    "translate": "tne.data_tablet.pages.chronon_generator.flavor"
+  },
+  "parents": [
+    "tne:tne/knowledge_projector"
+  ]
+}

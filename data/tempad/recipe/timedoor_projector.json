@@ -1,0 +1,21 @@
+{
+  "type": "datanessence:shaped_fabrication_recipe",
+  "essenceCost": {
+    "datanessence:essence": 300
+  },
+  "entry": "tne:tne/timedoor_projector",
+  "pattern": [
+    "PP ",
+    "GWC",
+    "NIN"
+  ],
+  "key": {
+    "C": { "item": "tempad:chronon_cell" },
+    "W": { "item": "datanessence:warp_capsule" },
+	"N": { "tag": "c:nuggets/iron" },
+	"I": { "tag": "c:ingots/iron" },
+	"P": { "item": "datanessence:capacitance_panel" },
+    "G": { "item": "minecraft:glass_pane" }
+  },
+  "result": { "id": "tempad:timedoor_projector", "count": 1 }
+}

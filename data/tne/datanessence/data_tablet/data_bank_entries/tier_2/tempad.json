@@ -1,0 +1,17 @@
+{
+  "icon": {
+    "id": "tempad:tempad"
+  },
+  "tier": 2,
+  "minigames": [
+    {
+      "type": "datanessence:minesweeper",
+      "bombs": 11,
+      "size": 4
+    }
+  ],
+  "name": {
+    "translate": "tne.data_tablet.pages.tempad.name"
+  },
+  "entry": "tne:tne/tempad"
+}

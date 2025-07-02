@@ -1,0 +1,20 @@
+{
+  "type": "datanessence:shaped_fabrication_recipe",
+  "essenceCost": {
+    "datanessence:essence": 150
+  },
+  "entry": "tne:tne/chronon_generator",
+  "pattern": [
+    "NII",
+    "LCP",
+    "NII"
+  ],
+  "key": {
+	"L": { "item": "datanessence:logical_matrix" },
+	"I": { "tag": "c:ingots/iron" },
+	"N": { "tag": "c:nuggets/iron" },
+	"C": { "item": "minecraft:clock" },
+    "P": { "item": "minecraft:green_stained_glass_pane" }
+  },
+  "result": { "id": "tempad:chronon_generator", "count": 1 }
+}

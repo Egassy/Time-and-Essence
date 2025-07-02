@@ -1,0 +1,40 @@
+{
+  "icon": {
+    "id": "tempad:timedoor_projector"
+  },
+  "tab": "tne:tne",
+  "x": -1,
+  "y": 5,
+  "pages": [
+    {
+      "type": "datanessence:item",
+      "item": {
+        "id": "tempad:timedoor_projector"
+      },
+      "text": {
+        "translate": "tne.data_tablet.pages.timedoor_projector.page1.text"
+      }
+    },
+    {
+      "type": "datanessence:crafting",
+      "text": {
+        "translate": "tne.data_tablet.pages.timedoor_projector.page2.text"
+      },
+      "recipes": [
+        "tempad:timedoor_projector"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "tne.data_tablet.pages.timedoor_projector.name"
+  },
+  "flavor": {
+    "translate": "tne.data_tablet.pages.timedoor_projector.flavor"
+  },
+  "parents": [
+    "tne:tne/chronon_cell",
+	"tne:tne/chronon_generator",
+	"tne:tne/card_cheap",
+	"tne:tne/timedoor_marker"
+  ]
+}

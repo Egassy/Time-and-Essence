@@ -1,0 +1,17 @@
+{
+  "type": "datanessence:shaped_fabrication_recipe",
+  "essenceCost": {
+    "datanessence:essence": 100
+  },
+  "entry": "tne:tne/timedoor_marker",
+  "pattern": [
+    "CEC",
+    "III"
+  ],
+  "key": {
+	"E": { "item": "minecraft:ender_eye" },
+	"I": { "tag": "c:ingots/iron" },
+	"C": { "tag": "c:ingots/copper" }
+  },
+  "result": { "id": "tempad:timedoor_marker", "count": 1 }
+}

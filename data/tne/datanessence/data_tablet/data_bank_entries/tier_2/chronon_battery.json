@@ -1,0 +1,10 @@
+{
+  "icon": {
+    "id": "tempad:chronon_battery"
+  },
+  "tier": 1,
+  "name": {
+    "translate": "tne.data_tablet.pages.chronon_battery.name"
+  },
+  "entry": "tne:tne/chronon_battery"
+}

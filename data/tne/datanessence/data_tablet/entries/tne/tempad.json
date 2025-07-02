@@ -1,0 +1,38 @@
+{
+  "icon": {
+    "id": "tempad:tempad"
+  },
+  "tab": "tne:tne",
+  "x": 0,
+  "y": -7,
+  "pages": [
+    {
+      "type": "datanessence:item",
+      "item": {
+        "id": "tempad:tempad"
+      },
+      "text": {
+        "translate": "tne.data_tablet.pages.tempad.page1.text"
+      }
+    },
+    {
+      "type": "datanessence:crafting",
+      "text": {
+        "translate": "tne.data_tablet.pages.tempad.page2.text"
+      },
+      "recipes": [
+        "tempad:tempad"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "tne.data_tablet.pages.tempad.name"
+  },
+  "flavor": {
+    "translate": "tne.data_tablet.pages.tempad.flavor"
+  },
+  "parents": [
+    "tne:tne/chronon_battery",
+	"tne:tne/chronometer"
+  ]
+}

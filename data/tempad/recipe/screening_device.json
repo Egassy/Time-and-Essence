@@ -1,0 +1,19 @@
+{
+  "type": "datanessence:shaped_fabrication_recipe",
+  "essenceCost": {
+    "datanessence:essence": 150
+  },
+  "entry": "tne:tne/screening_device",
+  "pattern": [
+    " T ",
+    "PLM",
+    " T "
+  ],
+  "key": {
+	"M": { "item": "datanessence:logical_matrix" },
+	"L": { "item": "tempad:location_broadcaster" },
+    "P": { "item": "minecraft:orange_stained_glass_pane" },
+	"T": { "item": "tempad:time_steel" }
+  },
+  "result": { "id": "tempad:screening_device", "count": 1 }
+}

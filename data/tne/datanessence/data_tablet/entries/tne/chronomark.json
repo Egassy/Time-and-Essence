@@ -1,0 +1,46 @@
+{
+  "icon": {
+    "id": "tempad:chronomark"
+  },
+  "tab": "tne:tne",
+  "x": -1,
+  "y": -4,
+  "pages": [
+    {
+      "type": "datanessence:item",
+      "item": {
+        "id": "tempad:chronomark"
+      },
+      "text": {
+        "translate": "tne.data_tablet.pages.chronomark.page1.text"
+      }
+    },
+    {
+      "type": "datanessence:crafting",
+      "text": {
+        "translate": "tne.data_tablet.pages.chronomark.page2.text"
+      },
+      "recipes": [
+        "tempad:chronomark"
+      ]
+    },
+	{
+      "type": "datanessence:crafting",
+      "text": {
+        "translate": "tne.data_tablet.pages.chronomark.page3.text"
+      },
+      "recipes": [
+        "tempad:chronomark_clean"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "tne.data_tablet.pages.chronomark.name"
+  },
+  "flavor": {
+    "translate": "tne.data_tablet.pages.chronomark.flavor"
+  },
+  "parents": [
+    "tne:tne/chronosteel"
+  ]
+}

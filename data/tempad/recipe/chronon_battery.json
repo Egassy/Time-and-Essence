@@ -1,0 +1,19 @@
+{
+  "type": "datanessence:shaped_fabrication_recipe",
+  "essenceCost": {
+    "datanessence:essence": 200
+  },
+  "entry": "tne:tne/chronon_battery",
+  "pattern": [
+    "TPT",
+    "PCP",
+    "TBT"
+  ],
+  "key": {
+	"B": { "item": "datanessence:essence_battery" },
+	"T": { "item": "tempad:time_steel" },
+    "C": { "item": "tempad:chronon_cell" },
+	"P": { "item": "minecraft:orange_stained_glass_pane" }
+  },
+  "result": { "id": "tempad:chronon_battery", "count": 1 }
+}

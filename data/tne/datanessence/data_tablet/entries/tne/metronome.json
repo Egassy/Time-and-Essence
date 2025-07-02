@@ -1,0 +1,38 @@
+{
+  "icon": {
+    "id": "tempad:metronome"
+  },
+  "tab": "tne:tne",
+  "x": 1,
+  "y": -6,
+  "pages": [
+    {
+      "type": "datanessence:item",
+      "item": {
+        "id": "tempad:metronome"
+      },
+      "text": {
+        "translate": "tne.data_tablet.pages.metronome.page1.text"
+      }
+    },
+    {
+      "type": "datanessence:crafting",
+      "recipes": [
+        "tempad:metronome"
+      ],
+      "text": {
+        "translate": "tne.data_tablet.pages.metronome.page2.text"
+      }
+    }
+  ],
+  "name": {
+    "translate": "tne.data_tablet.pages.metronome.name"
+  },
+  "flavor": {
+    "translate": "tne.data_tablet.pages.metronome.flavor"
+  },
+  "parents": [
+	"tne:tne/chronon_battery",
+	"tne:tne/chronometer"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "icon": {
+    "id": "tempad:player_teleport_upgrade"
+  },
+  "tier": 1,
+  "name": {
+    "translate": "tne.data_tablet.pages.enhance_spools.name"
+  },
+  "entry": "tne:tne/enhance_spools"
+}

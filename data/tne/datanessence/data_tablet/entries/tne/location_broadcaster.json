@@ -1,0 +1,34 @@
+{
+  "icon": {
+    "id": "tempad:location_broadcaster"
+  },
+  "tab": "tne:tne",
+  "x": 2,
+  "y": -7,
+  "pages": [
+    {
+      "type": "datanessence:item",
+      "item": {
+        "id": "tempad:location_broadcaster"
+      },
+      "text": {
+        "translate": "tne.data_tablet.pages.location_broadcaster.page.text"
+      }
+    },
+    {
+      "type": "datanessence:crafting",
+      "recipes": [
+        "tempad:location_broadcaster"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "tne.data_tablet.pages.location_broadcaster.name"
+  },
+  "flavor": {
+    "translate": "tne.data_tablet.pages.location_broadcaster.flavor"
+  },
+  "parents": [
+    "tne:tne/tempad"
+  ]
+}

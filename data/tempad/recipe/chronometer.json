@@ -1,0 +1,19 @@
+{
+  "type": "datanessence:shaped_fabrication_recipe",
+  "essenceCost": {
+    "datanessence:essence": 300
+  },
+  "entry": "tne:tne/chronometer",
+  "pattern": [
+    " P ",
+    "TCT",
+    "ETE"
+  ],
+  "key": {
+	"T": { "item": "tempad:time_steel" },
+    "C": { "item": "tempad:chronon_generator" },
+	"E": { "item": "datanessence:exciter" },
+	"P": { "item": "minecraft:orange_stained_glass_pane" }
+  },
+  "result": { "id": "tempad:chronometer", "count": 1 }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "datanessence:shaped_fabrication_recipe",
+  "essenceCost": {
+    "datanessence:essence": 100
+  },
+  "entry": "tne:tne/location_broadcaster",
+  "pattern": [
+    " IM",
+    "ILI",
+    "CI "
+  ],
+  "key": {
+	"M": { "item": "minecraft:map" },
+	"L": { "item": "datanessence:locator" },
+    "C": { "item": "minecraft:compass" },
+	"I": { "tag": "c:nuggets/iron" }
+  },
+  "result": { "id": "tempad:location_broadcaster", "count": 1 }
+}

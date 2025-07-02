@@ -1,0 +1,8 @@
+{
+  "add": [
+    "tne:tier_1/knowledge_projector",
+	"tne:tier_1/chronon_cell"
+  ],
+  "remove": [
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "icon": {
+    "id": "tempad:chronomark"
+  },
+  "tier": 2,
+  "name": {
+    "translate": "tne.data_tablet.pages.chronomark.name"
+  },
+  "entry": "tne:tne/chronomark"
+}

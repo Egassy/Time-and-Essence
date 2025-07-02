@@ -1,0 +1,10 @@
+{
+  "icon": {
+    "id": "tempad:screening_device"
+  },
+  "tier": 2,
+  "name": {
+    "translate": "tne.data_tablet.pages.screening_device.name"
+  },
+  "entry": "tne:tne/screening_device"
+}

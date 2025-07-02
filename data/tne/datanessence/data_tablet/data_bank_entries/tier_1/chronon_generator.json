@@ -1,0 +1,30 @@
+{
+  "icon": {
+    "id": "tempad:chronon_generator"
+  },
+  "tier": 1,
+  "minigames": [
+    {
+      "type": "datanessence:traces",
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "type": 1,
+          "essence": 0
+        },
+        {
+          "x": 5,
+          "y": 5,
+          "type": 2,
+          "essence": 0
+        }
+      ],
+      "size": 2
+    }
+  ],
+  "name": {
+    "translate": "tne.data_tablet.pages.chronon_generator.name"
+  },
+  "entry": "tne:tne/chronon_generator"
+}

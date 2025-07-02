@@ -1,0 +1,10 @@
+{
+  "icon": {
+    "id": "tempad:knowledge_projector"
+  },
+  "tier": 1,
+  "name": {
+    "translate": "tne.data_tablet.pages.knowledge_projector.name"
+  },
+  "entry": "tne:tne/knowledge_projector"
+}

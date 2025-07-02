@@ -1,0 +1,10 @@
+{
+  "icon": {
+    "id": "tempad:timedoor_marker"
+  },
+  "tier": 1,
+  "name": {
+    "translate": "tne.data_tablet.pages.timedoor_marker.name"
+  },
+  "entry": "tne:tne/timedoor_marker"
+}

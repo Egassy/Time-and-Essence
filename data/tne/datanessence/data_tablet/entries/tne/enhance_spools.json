@@ -1,0 +1,39 @@
+{
+  "icon": {
+    "id": "tempad:player_teleport_upgrade"
+  },
+  "tab": "tne:tne",
+  "x": -3,
+  "y": -6,
+  "pages": [
+    {
+      "type": "datanessence:item",
+      "item": {
+        "id": "tempad:player_teleport_upgrade"
+      },
+      "text": {
+        "translate": "tne.data_tablet.pages.enhance_spools.page1.text"
+      }
+    },
+    {
+      "type": "datanessence:crafting",
+      "recipes": [
+        "tempad:player_teleport_upgrade",
+		"tempad:knowledge_repository_upgrade"
+      ],
+      "text": {
+        "translate": "tne.data_tablet.pages.enhance_spools.page2.text"
+      }
+    }
+  ],
+  "name": {
+    "translate": "tne.data_tablet.pages.enhance_spools.name"
+  },
+  "flavor": {
+    "translate": "tne.data_tablet.pages.enhance_spools.flavor"
+  },
+  "parents": [
+    "tne:tne/workstation",
+	"tne:tne/tempad"
+  ]
+}

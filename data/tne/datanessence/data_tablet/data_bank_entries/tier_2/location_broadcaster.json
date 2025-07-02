@@ -1,0 +1,10 @@
+{
+  "icon": {
+    "id": "tempad:location_broadcaster"
+  },
+  "tier": 2,
+  "name": {
+    "translate": "tne.data_tablet.pages.location_broadcaster.name"
+  },
+  "entry": "tne:tne/location_broadcaster"
+}

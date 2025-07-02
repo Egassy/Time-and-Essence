@@ -1,0 +1,38 @@
+{
+  "icon": {
+    "id": "tempad:time_steel"
+  },
+  "tab": "tne:tne",
+  "x": 0,
+  "y": -2,
+  "pages": [
+    {
+      "type": "datanessence:item",
+      "item": {
+        "id": "tempad:time_steel"
+      },
+      "text": {
+        "translate": "tne.data_tablet.pages.chronosteel.page1.text"
+      }
+    },
+    {
+      "type": "datanessence:crafting",
+      "recipes": [
+        "tempad:time_steel_shapeless",
+		"tempad:time_steel_shaped"
+      ],
+      "text": {
+        "translate": "tne.data_tablet.pages.chronosteel.page2.text"
+      }
+    }
+  ],
+  "name": {
+    "translate": "tne.data_tablet.pages.chronosteel.name"
+  },
+  "flavor": {
+    "translate": "tne.data_tablet.pages.chronosteel.flavor"
+  },
+  "parents": [
+    "tne:tne/knowledge_projector"
+  ]
+}

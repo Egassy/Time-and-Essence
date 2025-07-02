@@ -1,0 +1,20 @@
+{
+  "type": "datanessence:shaped_fabrication_recipe",
+  "essenceCost": {
+    "datanessence:essence": 500
+  },
+  "entry": "tne:tne/metronome",
+  "pattern": [
+    "TBT",
+    "EGE",
+    "TPT"
+  ],
+  "key": {
+	"T": { "item": "tempad:time_steel" },
+	"B": { "item": "tempad:chronon_battery" },
+	"P": { "tag": "c:ender_pearls" },
+	"G": { "item": "tempad:chronon_generator" },
+    "E": { "item": "datanessence:exciter" }
+  },
+  "result": { "id": "tempad:metronome", "count": 1 }
+}

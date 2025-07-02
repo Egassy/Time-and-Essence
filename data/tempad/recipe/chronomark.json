@@ -1,0 +1,18 @@
+{
+  "type": "datanessence:shaped_fabrication_recipe",
+  "essenceCost": {
+    "datanessence:essence": 200
+  },
+  "entry": "tne:tne/timedoor_marker",
+  "pattern": [
+    "CLC",
+    "TMT"
+  ],
+  "key": {
+	"L": { "item": "tempad:location_broadcaster" },
+	"T": { "item": "tempad:time_steel" },
+	"M": { "item": "datanessence:logical_matrix" },
+	"C": { "tag": "c:ingots/copper" }
+  },
+  "result": { "id": "tempad:chronomark", "count": 2 }
+}

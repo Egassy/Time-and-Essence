@@ -1,0 +1,10 @@
+{
+  "icon": {
+    "id": "tempad:chronon_cell"
+  },
+  "tier": 1,
+  "name": {
+    "translate": "tne.data_tablet.pages.chronon_cell.name"
+  },
+  "entry": "tne:tne/chronon_cell"
+}
