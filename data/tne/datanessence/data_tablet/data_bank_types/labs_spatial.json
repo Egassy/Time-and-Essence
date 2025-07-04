@@ -1,0 +1,11 @@
+{
+  "add": [
+    "tne:tier_1/knowledge_projector",
+	"tne:tier_1/timedoor_marker",
+	"tier_1/timedoor_projector",
+	"tier_1/card_cheap",
+	"tier_2/chronomark",
+  ],
+  "remove": [
+  ]
+}
