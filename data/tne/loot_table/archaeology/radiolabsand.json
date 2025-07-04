@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:paper",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "text": "1"
+              }
+            }
+          ]
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}

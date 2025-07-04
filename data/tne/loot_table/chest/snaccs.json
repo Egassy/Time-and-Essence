@@ -1,0 +1,80 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 2,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wheat_seeds",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 8,
+                "max": 15
+              },
+              "add": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bread",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 5
+              },
+              "add": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 2,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_potion",
+              "id": "minecraft:water"
+            },
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 3,
+                "max": 5
+              },
+              "add": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_potion",
+              "id": "minecraft:mundane"
+            },
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              },
+              "add": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
