@@ -1,11 +1,11 @@
 {
   "add": [
-    "tne:tier_1/knowledge_projector",
+	"tne:tier_1/knowledge_projector",
 	"tne:tier_2/chronosteel",
-	"tier_2/chrono_reverter",
-	"tier_2/tempad",
-	"tier_2/workstation",
-	"tier_2/enhance_spools"
+	"tne:tier_2/chrono_reverter",
+	"tne:tier_2/tempad",
+	"tne:tier_2/workstation",
+	"tne:tier_2/enhance_spools"
 	
   ],
   "remove": [

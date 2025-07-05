@@ -1,8 +1,8 @@
 {
   "add": [
-    "tne:tier_1/knowledge_projector",
+	"tne:tier_1/knowledge_projector",
 	"tne:tier_1/location_broadcaster",
-	"tier_2/screening_device"
+	"tne:tier_2/screening_device"
   ],
   "remove": [
   ]

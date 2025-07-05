@@ -1,11 +1,11 @@
 {
   "add": [
-    "tne:tier_1/knowledge_projector",
+	"tne:tier_1/knowledge_projector",
 	"tne:tier_1/chronon_cell",
-	"tier_1/chronon_generator",
+	"tne:tier_1/chronon_generator",
 	"tne:tier_2/chronometer",
 	"tne:tier_2/chronon_battery",
-	"tier_2/metronome"
+	"tne:tier_2/metronome"
   ],
   "remove": [
   ]
