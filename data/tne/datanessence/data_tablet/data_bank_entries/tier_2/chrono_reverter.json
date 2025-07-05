@@ -5,22 +5,9 @@
   "tier": 2,
   "minigames": [
     {
-      "type": "datanessence:traces",
-      "tiles": [
-        {
-          "x": 0,
-          "y": 0,
-          "type": 1,
-          "essence": 0
-        },
-        {
-          "x": 5,
-          "y": 5,
-          "type": 2,
-          "essence": 0
-        }
-      ],
-      "size": 2
+      "type": "datanessence:minesweeper",
+      "bombs": 12,
+      "size": 6
     }
   ],
   "name": {

@@ -6,7 +6,7 @@
   "minigames": [
     {
       "type": "datanessence:minesweeper",
-      "bombs": 11,
+      "bombs": 8,
       "size": 4
     }
   ],

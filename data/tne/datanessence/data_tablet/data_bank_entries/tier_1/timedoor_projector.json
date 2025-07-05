@@ -3,6 +3,49 @@
     "id": "tempad:timedoor_projector"
   },
   "tier": 1,
+  "minigames": [
+    {
+      "type": "datanessence:wire",
+      "tiles": [
+        {
+          "x": 11,
+          "y": 1,
+          "type": 1,
+          "essence": 0
+        },
+        {
+          "x": 3,
+          "y": 1,
+          "type": 3,
+          "essence": 0
+        },
+        {
+          "x": 3,
+          "y": 13,
+          "type": 2,
+          "essence": 0
+        },
+        {
+          "x": 4,
+          "y": 13,
+          "type": 1,
+          "essence": 1
+        },
+        {
+          "x": 11,
+          "y": 13,
+          "type": 3,
+          "essence": 1
+        },
+        {
+          "x": 11,
+          "y": 2,
+          "type": 2,
+          "essence": 1
+        }
+      ]
+    }
+  ],
   "name": {
     "translate": "tne.data_tablet.pages.timedoor_projector.name"
   },

@@ -8,14 +8,14 @@
       "type": "datanessence:traces",
       "tiles": [
         {
-          "x": 0,
-          "y": 0,
+          "x": 9,
+          "y": 5,
           "type": 1,
           "essence": 0
         },
         {
-          "x": 5,
-          "y": 5,
+          "x": 7,
+          "y": 7,
           "type": 2,
           "essence": 0
         }

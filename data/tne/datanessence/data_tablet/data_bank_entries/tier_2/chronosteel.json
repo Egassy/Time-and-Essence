@@ -5,39 +5,22 @@
   "tier": 2,
   "minigames": [
     {
-      "type": "datanessence:wire",
+      "type": "datanessence:traces",
       "tiles": [
         {
-          "x": 1,
-          "y": 7,
-          "type": 1,
-          "essence": 0
-        },
-        {
-          "x": 11,
-          "y": 7,
-          "type": 2,
-          "essence": 1
-        },
-        {
-          "x": 13,
-          "y": 7,
-          "type": 2,
-          "essence": 0
-        },
-        {
           "x": 3,
-          "y": 7,
+          "y": 3,
           "type": 1,
-          "essence": 1
+          "essence": 0
         },
         {
-          "x": 7,
-          "y": 10,
-          "type": 3,
+          "x": 9,
+          "y": 9,
+          "type": 2,
           "essence": 0
         }
-      ]
+      ],
+      "size": 4
     }
   ],
   "name": {
