@@ -1,0 +1,18 @@
+{
+  "placement": {
+    "type": "minecraft:concentric_rings",
+    "count": 256,
+    "distance": 9,
+    "preferred_biomes": "#tne:has_structure/chronospatial_labs",
+    "salt": 347,
+    "spread": 3,
+    "frequency_reduction_method": "default",
+    "frequency": 1
+  },
+  "structures": [
+    {
+      "structure": "tne:chronospatial_labs",
+      "weight": 1
+    }
+  ]
+}
