@@ -62,5 +62,9 @@
 	"tne.data_tablet.pages.enhance_spools.name": "Enhancement Spools",
 	"tne.data_tablet.pages.enhance_spools.flavor": "⛭ Making the best, better",
 	"tne.data_tablet.pages.enhance_spools.page1.text": "Enhancement Spools can be applied to a Tempad via §lWorkstation§r to increase its capabilities. At the moment there is two - the Signal Enhancer Spool and the Repository Conversion Spool.",
-	"tne.data_tablet.pages.enhance_spools.page2.text": "The Signal Enhancer Spool attaches a finely-tuned antenna to the inside of the Tempad, allowing it to pick up signals from a Location Broadcaster that previously would be too weak to detect.\nThe Repository Conversion Spool downloads the entirity of the Knowledge Projector into the Tempad for easy access."
+	"tne.data_tablet.pages.enhance_spools.page2.text": "The Signal Enhancer Spool attaches a finely-tuned antenna to the inside of the Tempad, allowing it to pick up signals from a Location Broadcaster that previously would be too weak to detect.\nThe Repository Conversion Spool downloads the entirity of the Knowledge Projector into the Tempad for easy access.",
+	"tne.file.labs_radio.log1": "WIP",
+	"tne.file.labs_energy.log1": "WIP",
+	"tne.file.labs_spatial.log1": "WIP",
+	"tne.file.labs_chrono.log1": "WIP"
 }
