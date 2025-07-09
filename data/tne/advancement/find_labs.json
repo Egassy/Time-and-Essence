@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "tempad:tempad"
+    },
+    "title": {
+      "translate": "tne.advancement.find_labs.title"
+    },
+    "description": {
+      "translate": "tne.advancement.find_labs.description"
+    },
+    "hidden": false
+  },
+  "criteria": {
+    "at_chronospatial_labs": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "structures": "tne:chronospatial_labs"
+          }
+        }
+      }
+    }
+  }
+}

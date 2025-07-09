@@ -1,0 +1,22 @@
+{
+  "parent": "datanessence:progression/acquire_fabricator",
+  "criteria": {
+    "placed_shaper": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": [
+                  "datanessence:metal_shaper"
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

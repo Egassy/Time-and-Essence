@@ -1,0 +1,20 @@
+{
+  "structure": "tne:chronospatial_labs",
+  "advancement": "tne:find_labs",
+  "requiredAdvancement": "datanessence:datanessence",
+  "color1": [
+    237,
+    127,
+    0
+  ],
+  "color2": [
+    222,
+    59,
+    0
+  ],
+  "icon": {
+    "texture": "tne:textures/gui/lab_icon.png",
+    "u": 0,
+    "v": 0
+  }
+}
