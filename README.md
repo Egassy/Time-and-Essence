@@ -27,7 +27,7 @@ and
 ## Accreditation
 [EsetKalenko](https://modrinth.com/user/EsetKalenko) and [Cmdpro](https://modrinth.com/user/Cmdpro), for the wonderful art and datapackability of Data and Essence
 
-[CodexAdrian](https://modrinth.com/user/CodexAdrian), [MsRandom]([https://modrinth.com/user/MsRandom](https://modrinth.com/user/MsRandom)), [Kekie6](https://modrinth.com/user/Kekie6) and [ThatGravyBoat](https://modrinth.com/user/ThatGravyBoat), for Tempad and its *extremely* useful functions
+[CodexAdrian](https://modrinth.com/user/CodexAdrian), [MsRandom](https://modrinth.com/user/MsRandom), [Kekie6](https://modrinth.com/user/Kekie6) and [ThatGravyBoat](https://modrinth.com/user/ThatGravyBoat), for Tempad and its *extremely* useful functions
 
 ### Discord Links
 [Data and Essence](https://discord.gg/yjpMkxHhNJ)
