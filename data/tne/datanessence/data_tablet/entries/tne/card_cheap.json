@@ -12,13 +12,58 @@
         "id": "tempad:location_card"
       },
       "text": {
-        "translate": "tne.data_tablet.pages.location_card1.page.text"
+        "translate": "tne.data_tablet.pages.location_card.page.text"
       }
     },
     {
       "type": "datanessence:crafting",
 	  "text": {
-        "translate": "tne.data_tablet.pages.location_card1.page2.text"
+        "translate": "tne.data_tablet.pages.location_card.page2.text"
+      },
+      "recipes": [
+        "tempad:card_cheap",
+		"tempad:card_expensive"
+      ]
+    },
+	{
+      "type": "datanessence:crafting",
+	  "text": {
+        "translate": "tne.data_tablet.pages.location_card.page3.text"
+      },
+      "recipes": [
+        "tempad:card_wallet"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "tne.data_tablet.pages.location_card.name"
+  },
+  "flavor": {
+    "translate": "tne.data_tablet.pages.location_card.flavor"
+  },
+  "parents": [
+    "tne:tne/knowledge_projector"
+	
+  ],
+  "completion_stages": [
+    {
+      "completion_advancements": [
+        "tne:place_shaper"
+      ],
+      "pages": [
+    {
+      "type": "datanessence:item",
+      "item": {
+        "id": "tempad:location_card"
+      },
+      "text": {
+        "translate": "tne.data_tablet.pages.location_card.page.text"
+      }
+    },
+    {
+      "type": "datanessence:crafting",
+	  "text": {
+        "translate": "tne.data_tablet.pages.location_card.page2incomplete.text"
       },
       "recipes": [
         "tempad:card_cheap"
@@ -27,21 +72,13 @@
 	{
       "type": "datanessence:crafting",
 	  "text": {
-        "translate": "tne.data_tablet.pages.location_card1.page3.text"
+        "translate": "tne.data_tablet.pages.location_card.page3.text"
       },
       "recipes": [
         "tempad:card_wallet"
       ]
     }
-  ],
-  "name": {
-    "translate": "tne.data_tablet.pages.location_card1.name"
-  },
-  "flavor": {
-    "translate": "tne.data_tablet.pages.location_card1.flavor"
-  },
-  "parents": [
-    "tne:tne/knowledge_projector"
-	
+  ]
+    }
   ]
 }
