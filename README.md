@@ -1,3 +1,5 @@
+![Timedoor opening, turning purple then an Essence Bomb coming out and cracking the icon frame](https://github.com/Egassy/Time-and-Essence/blob/main/extra_files/images/tne_logo.gif?raw=true)
+
 # Time and Essence
 
 Time and Essence (**TnE**) is a lowcode/codeless "mod" that aims to both be an example of the flexibilty of DnE's data-driven progression and guidebook, and to balance out Tempad's rather... *interesting* recipe choices with Data and Essence progression and materials.
