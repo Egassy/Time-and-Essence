@@ -1,15 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "category": "misc",
-  "ingredients": [
-    {
-      "item": "tempad:time_steel"
-    },
-    {
-      "tag": "c:dyes"
-    }
-  ],
+  "type": "datanessence:metal_shaping",
+  "input": { "item": "tempad:time_steel" },
+  "time": 120,
   "result": {
+    "components": {
+      "datanessence:mold": "tempad:card_expensive"
+    },
     "count": 16,
     "id": "tempad:location_card"
   }
