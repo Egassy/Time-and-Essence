@@ -12,7 +12,7 @@
     "show_toast": false,
     "announce_to_chat": false,
     "hidden": false,
-    "background": "tne:textures/block/chronosteel_block.png"
+    "background": "tne:textures/block/chronite_block.png"
   },
   "rewards": {},
   "criteria": {

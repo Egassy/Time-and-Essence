@@ -13,7 +13,7 @@
     "announce_to_chat": false,
     "hidden": false
   },
-  "parent": "tne:chronosteel",
+  "parent": "tne:chronite",
   "criteria": {
     "get_advanced_chronon_stuff": {
       "trigger": "minecraft:inventory_changed",

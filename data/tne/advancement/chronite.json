@@ -4,10 +4,10 @@
       "id": "tempad:time_steel"
     },
     "title": {
-      "translate": "tne.advancement.chronosteel.title"
+      "translate": "tne.advancement.chronite.title"
     },
     "description": {
-      "translate": "tne.advancement.chronosteel.description"
+      "translate": "tne.advancement.chronite.description"
     },
     "show_toast": true,
     "announce_to_chat": true,
@@ -15,7 +15,7 @@
   },
   "parent": "tne:find_labs",
   "criteria": {
-    "get_chronosteel": {
+    "get_chronite": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [

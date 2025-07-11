@@ -13,7 +13,7 @@
     "announce_to_chat": false,
     "hidden": false
   },
-  "parent": "tne:chronosteel",
+  "parent": "tne:chronite",
   "criteria": {
     "place_chronomark": {
       "trigger": "minecraft:placed_block",

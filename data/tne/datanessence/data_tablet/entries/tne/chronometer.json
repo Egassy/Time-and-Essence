@@ -29,6 +29,6 @@
     "translate": "tne.data_tablet.pages.chronometer.flavor"
   },
   "parents": [
-    "tne:tne/chronosteel"
+    "tne:tne/chronite"
   ]
 }

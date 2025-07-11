@@ -3,7 +3,7 @@
   "essenceCost": {
     "datanessence:essence": 1000
   },
-  "entry": "tne:tne/chronosteel",
+  "entry": "tne:tne/chronite",
   "input": {
     "tag": "c:storage_blocks/gold",
     "count": 1

@@ -12,7 +12,7 @@
         "id": "tempad:time_steel"
       },
       "text": {
-        "translate": "tne.data_tablet.pages.chronosteel.page1.text"
+        "translate": "tne.data_tablet.pages.chronite.page1.text"
       }
     },
     {
@@ -22,15 +22,15 @@
 		"tempad:time_steel_shaped"
       ],
       "text": {
-        "translate": "tne.data_tablet.pages.chronosteel.page2.text"
+        "translate": "tne.data_tablet.pages.chronite.page2.text"
       }
     }
   ],
   "name": {
-    "translate": "tne.data_tablet.pages.chronosteel.name"
+    "translate": "tne.data_tablet.pages.chronite.name"
   },
   "flavor": {
-    "translate": "tne.data_tablet.pages.chronosteel.flavor"
+    "translate": "tne.data_tablet.pages.chronite.flavor"
   },
   "parents": [
     "tne:tne/knowledge_projector"

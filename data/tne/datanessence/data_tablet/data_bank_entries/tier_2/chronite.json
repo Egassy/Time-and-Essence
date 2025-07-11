@@ -24,7 +24,7 @@
     }
   ],
   "name": {
-    "translate": "tne.data_tablet.pages.chronosteel.name"
+    "translate": "tne.data_tablet.pages.chronite.name"
   },
-  "entry": "tne:tne/chronosteel"
+  "entry": "tne:tne/chronite"
 }
