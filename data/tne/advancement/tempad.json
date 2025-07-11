@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "tempad:tempad"
+    },
+    "title": {
+      "translate": "tne.advancement.tempad.title"
+    },
+    "description": {
+      "translate": "tne.advancement.tempad.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "tne:advanced_chronon_stuff",
+  "criteria": {
+    "get_tempad": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "tempad:tempad"
+          }
+        ]
+      }
+    }
+  }
+}

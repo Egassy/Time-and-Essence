@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "tempad:timedoor_projector"
+    },
+    "title": {
+      "translate": "tne.advancement.projector.title"
+    },
+    "description": {
+      "translate": "tne.advancement.projector.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "tne:basic_chronon_stuff",
+  "criteria": {
+    "get_projector": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "tempad:timedoor_projector"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "loot": [
+      "tne:projector_reward"
+    ],
+    "experience": 160
+  }
+}

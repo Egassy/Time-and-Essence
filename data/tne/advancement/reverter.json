@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "tempad:time_twister"
+    },
+    "title": {
+      "translate": "tne.advancement.reverter.title"
+    },
+    "description": {
+      "translate": "tne.advancement.reverter.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "tne:advanced_chronon_stuff",
+  "criteria": {
+    "get_reverter": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "tempad:time_twister"
+          }
+        ]
+      }
+    }
+  }
+}

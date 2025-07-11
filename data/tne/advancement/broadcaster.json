@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "tempad:location_broadcaster"
+    },
+    "title": {
+      "translate": "tne.advancement.broadcasting.title"
+    },
+    "description": {
+      "translate": "tne.advancement.broadcasting.description"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "tne:tempad",
+  "criteria": {
+    "get_broadcaster": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "tempad:location_broadcaster"
+          }
+        ]
+      }
+    }
+  }
+}

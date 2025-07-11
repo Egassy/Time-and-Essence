@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "id": "tempad:chronometer"
+    },
+    "title": {
+      "translate": "tne.advancement.advanced_chronon_stuff.title"
+    },
+    "description": {
+      "translate": "tne.advancement.advanced_chronon_stuff.description"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "tne:chronosteel",
+  "criteria": {
+    "get_advanced_chronon_stuff": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tempad:chronometer",
+              "tempad:chronon_battery"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

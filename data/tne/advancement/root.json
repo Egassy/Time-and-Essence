@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "tempad:tempad"
+    },
+    "title": {
+      "translate": "tne.advancement.root.title"
+    },
+    "description": {
+      "translate": "tne.advancement.root.description"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "datanessence:textures/block/deco/ancient/ancient_rock_column_vertical.png"
+  },
+  "rewards": {},
+  "criteria": {
+    "instant_granted": {
+      "trigger": "minecraft:tick",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "instant_granted"
+    ]
+  ]
+}

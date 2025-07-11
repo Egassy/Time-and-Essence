@@ -1,0 +1,42 @@
+{
+  "display": {
+    "icon": {
+      "id": "tempad:workstation"
+    },
+    "title": {
+      "translate": "tne.advancement.improvments.title"
+    },
+    "description": {
+      "translate": "tne.advancement.improvements.description"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "tne:tempad",
+  "criteria": {
+    "get_workstation": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "tempad:workstation"
+          }
+        ]
+      }
+    },
+    "get_enhancement_spools": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tempad:player_teleport_upgrade",
+              "tempad:knowledge_repository_upgrade"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

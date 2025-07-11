@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "id": "tempad:tempad"
+      "id": "tempad:knowledge_projector"
     },
     "title": {
       "translate": "tne.advancement.find_labs.title"
@@ -9,8 +9,11 @@
     "description": {
       "translate": "tne.advancement.find_labs.description"
     },
-    "hidden": false
+    "background": "datanessence:textures/block/deco/ancient/ancient_rock_column_vertical.png",
+    "show_toast": true,
+    "announce_to_chat": true
   },
+  "parent": "tne:root",
   "criteria": {
     "at_chronospatial_labs": {
       "trigger": "minecraft:location",

@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "id": "tempad:chronon_generator"
+    },
+    "title": {
+      "translate": "tne.advancement.basic_chronon_stuff.title"
+    },
+    "description": {
+      "translate": "tne.advancement.basic_chronon_stuff.description"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "tne:find_labs",
+  "criteria": {
+    "get_basic_chronon_stuff": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tempad:chronon_generator",
+              "tempad:chronon_cell"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

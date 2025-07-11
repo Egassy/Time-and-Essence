@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "tempad:chronomark"
+    },
+    "title": {
+      "translate": "tne.advancement.chronomark.title"
+    },
+    "description": {
+      "translate": "tne.advancement.chronomark.description"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "tne:chronosteel",
+  "criteria": {
+    "place_chronomark": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "tempad:chronomark"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
