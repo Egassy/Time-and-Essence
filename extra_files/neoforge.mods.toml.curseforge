@@ -5,7 +5,7 @@ issueTrackerURL="https://github.com/Egassy/Time-and-Essence/issues"
 
 [[mods]]
 modId="tne"
-version="1.0.1"
+version="1.0.2"
 displayName="Time and Essence" 
 displayURL="https://www.curseforge.com/minecraft/mc-mods/time-and-essence"
 logoFile="tne_logo.gif"
