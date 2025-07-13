@@ -5,7 +5,7 @@ issueTrackerURL="https://github.com/Egassy/Time-and-Essence/issues"
 
 [[mods]]
 modId="tne"
-version="1.0.0"
+version="1.0.1"
 displayName="Time and Essence" 
 displayURL="https://modrinth.com/project/tne-addon"
 logoFile="tne_logo.gif"
@@ -29,7 +29,7 @@ side="BOTH"
 
 [[dependencies.tne]]
 modId="datanessence"
-versionRange="[1.0.0-alpha-earlygame17]"
+versionRange="[1.0.0-alpha-song_of_the_factory2,]"
 ordering="AFTER"
 side="BOTH"
 
