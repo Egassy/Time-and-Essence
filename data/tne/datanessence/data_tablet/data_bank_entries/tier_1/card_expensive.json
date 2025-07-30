@@ -1,0 +1,10 @@
+{
+  "icon": {
+    "id": "tempad:location_card"
+  },
+  "tier": 1,
+  "name": {
+    "translate": "tne.data_tablet.pages.location_card.name"
+  },
+  "entry": "tne:tne/card_expensive"
+}

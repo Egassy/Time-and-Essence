@@ -1,0 +1,28 @@
+{
+  "icon": {
+    "id": "tempad:location_card"
+  },
+  "tab": "tne:tne",
+  "x": 3,
+  "y": 2,
+  "pages": [
+    {
+      "type": "datanessence:crafting",
+	  "text": {
+        "translate": "tne.data_tablet.pages.location_card_other.page.text"
+      },
+      "recipes": [
+		"tempad:card_expensive"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "tne.data_tablet.pages.location_card_other.name"
+  },
+  "parents": [
+    "tne:tne/chronite",
+	"tne:tne/card_cheap",
+	"datanessence:machine/metal_shaper"
+	
+  ]
+}

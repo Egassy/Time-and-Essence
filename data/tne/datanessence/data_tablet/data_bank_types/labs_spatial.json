@@ -4,6 +4,7 @@
 	"tne:tier_1/timedoor_marker",
 	"tne:tier_1/timedoor_projector",
 	"tne:tier_1/card_cheap",
+	"tne:tier_1/card_expensive",
 	"tne:tier_2/chronomark"
   ],
   "remove": [
