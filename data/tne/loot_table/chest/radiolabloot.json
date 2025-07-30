@@ -70,7 +70,7 @@
             {
               "function": "minecraft:set_name",
               "name": {
-                "text": "0"
+                "text": "0,"
               }
             }
           ]
