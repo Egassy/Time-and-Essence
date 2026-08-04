@@ -1,15 +1,15 @@
 modLoader="javafml"
 loaderVersion="[4,)"
 license = 'Unlicense'
-issueTrackerURL="https://github.com/Egassy/Time-and-Essence/issues"
+issueTrackerURL="https://github.com/Egassy/Tides-of-Time/issues"
 
 [[mods]]
 modId="tot"
-version="1.0.3"
+version="1.0.4"
 displayName="Tides of Time" 
-displayURL="https://www.curseforge.com/minecraft/mc-mods/tne-addon"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/tot-addon"
 logoFile="tot_logo.png"
-credits="The Data & Essence and Terrarium teams, for making DnE and Tempad respectively"
+credits="The Halcyon and Terrarium teams, for making Halcyon and Tempad respectively"
 authors="Egassy"
 description="Subsuming Tempad into Data and Essence"
 
@@ -28,7 +28,7 @@ ordering="AFTER"
 side="BOTH"
 
 [[dependencies.tot]]
-modId="datanessence"
+modId="halcyon"
 versionRange="[${halcyon_version},)"
 ordering="AFTER"
 side="BOTH"
