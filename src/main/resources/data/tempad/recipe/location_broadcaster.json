@@ -1,7 +1,7 @@
 {
-  "type": "datanessence:shaped_fabrication_recipe",
+  "type": "halcyon:shaped_fabrication_recipe",
   "essenceCost": {
-    "datanessence:essence": 100
+    "halcyon:essence": 100
   },
   "entry": "tot:tot/location_broadcaster",
   "pattern": [
@@ -11,7 +11,7 @@
   ],
   "key": {
 	"M": { "item": "minecraft:map" },
-	"L": { "item": "datanessence:locator" },
+	"L": { "item": "halcyon:locator" },
     "C": { "item": "minecraft:compass" },
 	"I": { "tag": "c:nuggets/iron" }
   },

@@ -1,5 +1,5 @@
 {
-  "parent": "datanessence:progression/acquire_fabricator",
+  "parent": "halcyon:progression/acquire_fabricator",
   "criteria": {
     "placed_shaper": {
       "trigger": "minecraft:placed_block",
@@ -10,7 +10,7 @@
             "predicate": {
               "block": {
                 "blocks": [
-                  "datanessence:metal_shaper"
+                  "halcyon:metal_shaper"
                 ]
               }
             }

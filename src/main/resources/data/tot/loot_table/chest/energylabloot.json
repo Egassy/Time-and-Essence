@@ -81,7 +81,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "datanessence:essence_shard",
+          "name": "halcyon:essence_shard",
           "functions": [
             {
               "function": "minecraft:set_count",

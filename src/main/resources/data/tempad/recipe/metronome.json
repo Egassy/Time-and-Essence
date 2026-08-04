@@ -1,7 +1,7 @@
 {
-  "type": "datanessence:shaped_fabrication_recipe",
+  "type": "halcyon:shaped_fabrication_recipe",
   "essenceCost": {
-    "datanessence:essence": 500
+    "halcyon:essence": 500
   },
   "entry": "tot:tot/metronome",
   "pattern": [
@@ -14,7 +14,7 @@
 	"B": { "item": "tempad:chronon_battery" },
 	"P": { "tag": "c:ender_pearls" },
 	"G": { "item": "tempad:chronon_generator" },
-    "E": { "item": "datanessence:exciter" }
+    "E": { "item": "halcyon:exciter" }
   },
   "result": { "id": "tempad:metronome", "count": 1 }
 }

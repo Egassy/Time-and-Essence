@@ -1,0 +1,28 @@
+{
+  "icon": {
+    "id": "tempad:location_card"
+  },
+  "tab": "tot:tot",
+  "x": 3,
+  "y": 2,
+  "pages": [
+    {
+      "type": "halcyon:crafting",
+	  "text": {
+        "translate": "tot.data_tablet.pages.location_card_other.page.text"
+      },
+      "recipes": [
+		"tempad:card_expensive"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "tot.data_tablet.pages.location_card_other.name"
+  },
+  "parents": [
+    "tot:tot/chronite",
+	"tot:tot/card_cheap",
+	"halcyon:machine/metal_shaper"
+	
+  ]
+}

@@ -1,7 +1,7 @@
 {
-  "type": "datanessence:shaped_fabrication_recipe",
+  "type": "halcyon:shaped_fabrication_recipe",
   "essenceCost": {
-    "datanessence:essence": 350
+    "halcyon:essence": 350
   },
   "entry": "tot:tot/workstation",
   "pattern": [
@@ -11,8 +11,8 @@
   ],
   "key": {
 	"I": { "item": "minecraft:item_frame" },
-	"L": { "item": "datanessence:logical_matrix" },
-    "C": { "item": "datanessence:capacitance_panel" },
+	"L": { "item": "halcyon:logical_matrix" },
+    "C": { "item": "halcyon:capacitance_panel" },
 	"T": { "item": "tempad:time_steel" },
 	"P": { "item": "minecraft:orange_stained_glass_pane" }
   },

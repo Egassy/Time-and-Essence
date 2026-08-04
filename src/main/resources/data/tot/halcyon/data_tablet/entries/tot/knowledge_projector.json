@@ -1,0 +1,34 @@
+{
+  "icon": {
+    "id": "tempad:knowledge_projector"
+  },
+  "tab": "tot:tot",
+  "x": 0,
+  "y": 0,
+  "pages": [
+    {
+      "type": "halcyon:item",
+      "item": {
+        "id": "tempad:knowledge_projector"
+      },
+      "text": {
+        "translate": "tot.data_tablet.pages.knowledge_projector.page.text"
+      }
+    },
+    {
+      "type": "halcyon:crafting",
+      "recipes": [
+        "tempad:knowledge_projector"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "tot.data_tablet.pages.knowledge_projector.name"
+  },
+  "flavor": {
+    "translate": "tot.data_tablet.pages.knowledge_projector.flavor"
+  },
+  "parents": [
+    "halcyon:basics/fabricator"
+  ]
+}

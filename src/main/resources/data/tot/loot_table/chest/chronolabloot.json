@@ -21,7 +21,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "datanessence:logical_matrix",
+          "name": "halcyon:logical_matrix",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -76,7 +76,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "datanessence:essence_shard",
+          "name": "halcyon:essence_shard",
           "functions": [
             {
               "function": "minecraft:set_count",

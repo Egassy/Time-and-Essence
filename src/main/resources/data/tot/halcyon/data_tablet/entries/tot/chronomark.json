@@ -1,0 +1,46 @@
+{
+  "icon": {
+    "id": "tempad:chronomark"
+  },
+  "tab": "tot:tot",
+  "x": -1,
+  "y": -4,
+  "pages": [
+    {
+      "type": "halcyon:item",
+      "item": {
+        "id": "tempad:chronomark"
+      },
+      "text": {
+        "translate": "tot.data_tablet.pages.chronomark.page1.text"
+      }
+    },
+    {
+      "type": "halcyon:crafting",
+      "text": {
+        "translate": "tot.data_tablet.pages.chronomark.page2.text"
+      },
+      "recipes": [
+        "tempad:chronomark"
+      ]
+    },
+	{
+      "type": "halcyon:crafting",
+      "text": {
+        "translate": "tot.data_tablet.pages.chronomark.page3.text"
+      },
+      "recipes": [
+        "tempad:chronomark_clean"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "tot.data_tablet.pages.chronomark.name"
+  },
+  "flavor": {
+    "translate": "tot.data_tablet.pages.chronomark.flavor"
+  },
+  "parents": [
+    "tot:tot/chronite"
+  ]
+}

@@ -1,7 +1,7 @@
 {
-  "type": "datanessence:shaped_fabrication_recipe",
+  "type": "halcyon:shaped_fabrication_recipe",
   "essenceCost": {
-    "datanessence:essence": 200
+    "halcyon:essence": 200
   },
   "entry": "tot:tot/timedoor_marker",
   "pattern": [
@@ -11,7 +11,7 @@
   "key": {
 	"L": { "item": "tempad:location_broadcaster" },
 	"T": { "item": "tempad:time_steel" },
-	"M": { "item": "datanessence:logical_matrix" },
+	"M": { "item": "halcyon:logical_matrix" },
 	"C": { "tag": "c:ingots/copper" }
   },
   "result": { "id": "tempad:chronomark", "count": 2 }

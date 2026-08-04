@@ -1,0 +1,38 @@
+{
+  "icon": {
+    "id": "tempad:time_steel"
+  },
+  "tab": "tot:tot",
+  "x": 0,
+  "y": -2,
+  "pages": [
+    {
+      "type": "halcyon:item",
+      "item": {
+        "id": "tempad:time_steel"
+      },
+      "text": {
+        "translate": "tot.data_tablet.pages.chronite.page1.text"
+      }
+    },
+    {
+      "type": "halcyon:crafting",
+      "recipes": [
+        "tempad:time_steel_shapeless",
+		"tempad:time_steel_shaped"
+      ],
+      "text": {
+        "translate": "tot.data_tablet.pages.chronite.page2.text"
+      }
+    }
+  ],
+  "name": {
+    "translate": "tot.data_tablet.pages.chronite.name"
+  },
+  "flavor": {
+    "translate": "tot.data_tablet.pages.chronite.flavor"
+  },
+  "parents": [
+    "tot:tot/knowledge_projector"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "icon": {
+    "id": "tempad:tempad"
+  },
+  "name": {
+    "translate": "tot.data_tablet.tabs.tempad.name"
+  },
+  "placement": {
+    "place_after": "halcyon:mod_integration"
+  }
+}

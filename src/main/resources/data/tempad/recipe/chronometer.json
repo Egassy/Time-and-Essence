@@ -1,7 +1,7 @@
 {
-  "type": "datanessence:shaped_fabrication_recipe",
+  "type": "halcyon:shaped_fabrication_recipe",
   "essenceCost": {
-    "datanessence:essence": 300
+    "halcyon:essence": 300
   },
   "entry": "tot:tot/chronometer",
   "pattern": [
@@ -12,7 +12,7 @@
   "key": {
 	"T": { "item": "tempad:time_steel" },
     "C": { "item": "tempad:chronon_generator" },
-	"E": { "item": "datanessence:exciter" },
+	"E": { "item": "halcyon:exciter" },
 	"P": { "item": "minecraft:orange_stained_glass_pane" }
   },
   "result": { "id": "tempad:chronometer", "count": 1 }

@@ -1,0 +1,10 @@
+{
+  "files": [
+    {
+      "type": "halcyon:text",
+      "text": {
+        "translate": "tot.file.labs_spatial.log1"
+      }
+    }
+  ]
+}

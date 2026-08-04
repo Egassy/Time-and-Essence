@@ -1,7 +1,7 @@
 {
-  "type": "datanessence:shaped_fabrication_recipe",
+  "type": "halcyon:shaped_fabrication_recipe",
   "essenceCost": {
-    "datanessence:essence": 50
+    "halcyon:essence": 50
   },
   "entry": "tot:tot/card_cheap",
   "pattern": [
@@ -10,11 +10,11 @@
   ],
   "key": {
     "C": { "tag": "c:ingots/copper" },
-    "E": { "item": "datanessence:essence_shard" }
+    "E": { "item": "halcyon:essence_shard" }
   },
   "result": {
     "components": {
-      "datanessence:mold": "tempad:card_expensive"
+      "halcyon:mold": "tempad:card_expensive"
     },
     "count": 4,
     "id": "tempad:location_card"

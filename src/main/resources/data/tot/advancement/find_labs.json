@@ -9,7 +9,7 @@
     "description": {
       "translate": "tot.advancement.find_labs.description"
     },
-    "background": "datanessence:textures/block/deco/ancient/ancient_rock_column_vertical.png",
+    "background": "halcyon:textures/block/deco/ancient/ancient_rock_column_vertical.png",
     "show_toast": true,
     "announce_to_chat": true
   },

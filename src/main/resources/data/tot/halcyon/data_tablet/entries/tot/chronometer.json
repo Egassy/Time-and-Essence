@@ -1,0 +1,34 @@
+{
+  "icon": {
+    "id": "tempad:chronometer"
+  },
+  "tab": "tot:tot",
+  "x": 0,
+  "y": -4,
+  "pages": [
+    {
+      "type": "halcyon:item",
+      "item": {
+        "id": "tempad:chronometer"
+      },
+      "text": {
+        "translate": "tot.data_tablet.pages.chronometer.page.text"
+      }
+    },
+    {
+      "type": "halcyon:crafting",
+      "recipes": [
+        "tempad:chronometer"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "tot.data_tablet.pages.chronometer.name"
+  },
+  "flavor": {
+    "translate": "tot.data_tablet.pages.chronometer.flavor"
+  },
+  "parents": [
+    "tot:tot/chronite"
+  ]
+}

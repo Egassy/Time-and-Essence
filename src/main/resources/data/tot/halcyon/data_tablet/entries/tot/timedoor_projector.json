@@ -1,0 +1,40 @@
+{
+  "icon": {
+    "id": "tempad:timedoor_projector"
+  },
+  "tab": "tot:tot",
+  "x": -1,
+  "y": 5,
+  "pages": [
+    {
+      "type": "halcyon:item",
+      "item": {
+        "id": "tempad:timedoor_projector"
+      },
+      "text": {
+        "translate": "tot.data_tablet.pages.timedoor_projector.page1.text"
+      }
+    },
+    {
+      "type": "halcyon:crafting",
+      "text": {
+        "translate": "tot.data_tablet.pages.timedoor_projector.page2.text"
+      },
+      "recipes": [
+        "tempad:timedoor_projector"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "tot.data_tablet.pages.timedoor_projector.name"
+  },
+  "flavor": {
+    "translate": "tot.data_tablet.pages.timedoor_projector.flavor"
+  },
+  "parents": [
+    "tot:tot/chronon_cell",
+	"tot:tot/chronon_generator",
+	"tot:tot/card_cheap",
+	"tot:tot/timedoor_marker"
+  ]
+}

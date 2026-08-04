@@ -1,0 +1,30 @@
+{
+  "icon": {
+    "id": "tempad:chronon_generator"
+  },
+  "tier": 1,
+  "minigames": [
+    {
+      "type": "halcyon:traces",
+      "tiles": [
+        {
+          "x": 7,
+          "y": 7,
+          "type": 1,
+          "essence": 0
+        },
+        {
+          "x": 9,
+          "y": 5,
+          "type": 2,
+          "essence": 0
+        }
+      ],
+      "size": 2
+    }
+  ],
+  "name": {
+    "translate": "tot.data_tablet.pages.chronon_generator.name"
+  },
+  "entry": "tot:tot/chronon_generator"
+}

@@ -1,7 +1,7 @@
 {
-  "type": "datanessence:shaped_fabrication_recipe",
+  "type": "halcyon:shaped_fabrication_recipe",
   "essenceCost": {
-    "datanessence:essence": 0
+    "halcyon:essence": 0
   },
   "entry": "tot:tot/knowledge_projector",
   "pattern": [
@@ -11,7 +11,7 @@
   ],
   "key": {
     "P": { "item": "minecraft:glass_pane" },
-	"D": { "item": "datanessence:data_drive" },
+	"D": { "item": "halcyon:data_drive" },
 	"C": { "tag": "c:ingots/copper" }
   },
   "result": { "id": "tempad:knowledge_projector", "count": 1 }

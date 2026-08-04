@@ -1,7 +1,7 @@
 {
-  "type": "datanessence:shaped_fabrication_recipe",
+  "type": "halcyon:shaped_fabrication_recipe",
   "essenceCost": {
-    "datanessence:essence": 200
+    "halcyon:essence": 200
   },
   "entry": "tot:tot/chronon_battery",
   "pattern": [
@@ -10,7 +10,7 @@
     "TBT"
   ],
   "key": {
-	"B": { "item": "datanessence:essence_battery" },
+	"B": { "item": "halcyon:essence_battery" },
 	"T": { "item": "tempad:time_steel" },
     "C": { "item": "tempad:chronon_cell" },
 	"P": { "item": "minecraft:orange_stained_glass_pane" }

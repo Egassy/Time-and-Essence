@@ -1,7 +1,7 @@
 {
-  "type": "datanessence:infusion",
+  "type": "halcyon:infusion",
   "essenceCost": {
-    "datanessence:essence": 250
+    "halcyon:essence": 250
   },
   "entry": "tot:tot/chronite",
   "input": {

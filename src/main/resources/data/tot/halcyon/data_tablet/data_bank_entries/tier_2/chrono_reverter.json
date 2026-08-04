@@ -1,0 +1,17 @@
+{
+  "icon": {
+    "id": "tempad:time_twister"
+  },
+  "tier": 2,
+  "minigames": [
+    {
+      "type": "halcyon:minesweeper",
+      "bombs": 12,
+      "size": 6
+    }
+  ],
+  "name": {
+    "translate": "tot.data_tablet.pages.chrono_reverter.name"
+  },
+  "entry": "tot:tot/chrono_reverter"
+}

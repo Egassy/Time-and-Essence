@@ -1,0 +1,34 @@
+{
+  "icon": {
+    "id": "tempad:chronon_generator"
+  },
+  "tab": "tot:tot",
+  "x": 0,
+  "y": 3,
+  "pages": [
+    {
+      "type": "halcyon:item",
+      "item": {
+        "id": "tempad:chronon_generator"
+      },
+      "text": {
+        "translate": "tot.data_tablet.pages.chronon_generator.page.text"
+      }
+    },
+    {
+      "type": "halcyon:crafting",
+      "recipes": [
+        "tempad:chronon_generator"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "tot.data_tablet.pages.chronon_generator.name"
+  },
+  "flavor": {
+    "translate": "tot.data_tablet.pages.chronon_generator.flavor"
+  },
+  "parents": [
+    "tot:tot/knowledge_projector"
+  ]
+}

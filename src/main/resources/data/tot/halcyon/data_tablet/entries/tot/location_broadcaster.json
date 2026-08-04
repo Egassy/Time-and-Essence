@@ -1,0 +1,34 @@
+{
+  "icon": {
+    "id": "tempad:location_broadcaster"
+  },
+  "tab": "tot:tot",
+  "x": 2,
+  "y": -7,
+  "pages": [
+    {
+      "type": "halcyon:item",
+      "item": {
+        "id": "tempad:location_broadcaster"
+      },
+      "text": {
+        "translate": "tot.data_tablet.pages.location_broadcaster.page.text"
+      }
+    },
+    {
+      "type": "halcyon:crafting",
+      "recipes": [
+        "tempad:location_broadcaster"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "tot.data_tablet.pages.location_broadcaster.name"
+  },
+  "flavor": {
+    "translate": "tot.data_tablet.pages.location_broadcaster.flavor"
+  },
+  "parents": [
+    "tot:tot/tempad"
+  ]
+}
